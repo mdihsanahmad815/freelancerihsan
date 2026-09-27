@@ -1,0 +1,15 @@
+FREELANCER IHSAN WEBSITE - FINAL UPLOAD
+
+Upload ALL of these to the GitHub repository root:
+- index.html
+- style.css
+- script.js
+- assets/freelancer-ihsan-logo.png
+- assets/profile-photo.jpg
+
+IMPORTANT:
+Do not upload only index.html/style.css/script.js. The assets folder is required, otherwise the profile photo/logo can appear broken on GitHub Pages.
+
+The website keeps the existing profile photo and logo unchanged.
+Language toggle: BN <-> EN
+Copyright: 2019 Freelancer Ihsan. All Rights Reserved.
